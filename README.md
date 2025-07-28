@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ALexXK1dD
-- 👀 I’m interested in Cyber-security,
-- 🌱 I’m currently learning the basics of Python and HTML to prepare for college
-- 📝 Currently writing the story for the Debut game me and freinds are working on with a company that i got appointed as CEO
+- 👀 I’m interested in IT 
+- 🌱 looking to work as a help desk assistant to  .get expirience
 - 😄 Pronouns: Any pronouns im genderfluid
 
 <!---
