@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALexXK1dD
 - 👀 I’m interested in IT 
-- 🌱 looking to work as a help desk assistant to  .get expirience
+- 🌱 looking to work as a help desk assistant to  get expirience
 - 😄 Pronouns: Any pronouns im genderfluid
 
 <!---
